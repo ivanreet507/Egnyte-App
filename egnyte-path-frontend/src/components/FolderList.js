@@ -22,7 +22,7 @@ const FolderList = () => {
         { name: "7.0 Media", fileCount: 29753, folderCount: 1426, pathLimitExceededCount: 2 },
         { name: "8.0 Software", fileCount: 34536, folderCount: 2566, pathLimitExceededCount: 24 },
         { name: "9.0 Staff", fileCount: 209900, folderCount: 22510, pathLimitExceededCount: 4924 },
-        { name: "GIS", fileCount: 685210, folderCount: 59331, pathLimitExceededCount: "TBD" },
+        { name: "GIS", fileCount: 685210, folderCount: 59331, pathLimitExceededCount: 16 },
         { name: "GIS_WSC", fileCount: 26589, folderCount: 1490, pathLimitExceededCount: 4 },
         { name: "Scans", fileCount: 580, folderCount: 63, pathLimitExceededCount: 0 }
     ];
